@@ -4,7 +4,7 @@
   <artifactId>game-server</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>game-server</name>
-  <description>游戏socket服务器</description>
+  <description>游戏socket服务器案例</description>
   <packaging>jar</packaging>
       <properties>
         <!-- Spring version -->
